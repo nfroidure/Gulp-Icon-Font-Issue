@@ -1,8 +1,8 @@
 {
-  "title": "PixelDust",
-  "description": "Jumpstart your next project today with pixeldust.",
-  "author": "Atlantic BT",
-  "url": "http://pixeldust.dev05.atlanticbt.net/",
+  "title": "Project Name",
+  "description": "Project Description",
+  "author": "Drew Rawitz",
+  "url": "http://www.drewrawitz.com",
   "copyright": "2014",
   "version": "1.0.0",
   "devDependencies": {
