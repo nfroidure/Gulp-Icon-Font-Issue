@@ -1,0 +1,13 @@
+{
+  "title": "PixelDust",
+  "description": "Jumpstart your next project today with pixeldust.",
+  "author": "Atlantic BT",
+  "url": "http://pixeldust.dev05.atlanticbt.net/",
+  "copyright": "2014",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-iconfont": "^0.2.1",
+    "gulp-iconfont-css": "0.0.9"
+  }
+}
